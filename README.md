@@ -1,6 +1,6 @@
 # Whatsapp-Bot
 
-This is a Bot that sends messages automatically to another person in tik tok.
+This is a Bot that sends messages automatically to another person in Whatsapp.
 
 ## Technologies:
 - This was made in NodeJS with the Puppeteer library.
